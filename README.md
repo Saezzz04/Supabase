@@ -88,3 +88,13 @@ No uses este entorno local como producción.
 Si cambias el config.toml, reinicia los servicios.
 
 Puedes usar supabase status para ver el estado de los contenedores.
+
+
+#Recursos oficiales
+https://supabase.com/docs
+#Guía de desarrollo local
+https://supabase.com/docs/guides/local-development
+#CLI Reference
+https://supabase.com/docs/reference/cli/introduction
+#Supabase Self Hosting
+https://supabase.com/docs/guides/self-hosting
