@@ -1,5 +1,5 @@
 https://supabase.com/docs/guides/local-development
-
+![alt text](image.png)
 # 🧩 Guía para Instalar y Desplegar Supabase Localmente
 
 Esta guía te explica cómo instalar, configurar y ejecutar **Supabase** en tu entorno local usando la **Supabase CLI** y **Docker**.  
